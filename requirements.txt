@@ -1,0 +1,6 @@
+﻿python-telegram-bot[job-queue]>=21.6
+openai-whisper>=20240930
+ffmpeg-python>=0.2.0
+dateparser>=1.2.0
+pytz>=2024.1
+python-dotenv>=1.0.1
